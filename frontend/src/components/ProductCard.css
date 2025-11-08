@@ -1,0 +1,68 @@
+.product-card{width:100%;border-radius:18px;overflow:hidden;background:#fff;padding:14px;box-shadow:0 2px 8px rgba(0,0,0,.08);transition:transform .25s ease;cursor:pointer}
+.product-card:hover{transform:translateY(-4px)}
+.product-card {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .product-info {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .image-container {
+    position: relative;
+    z-index: 1;
+    pointer-events: auto;
+  }  
+.image-container{position:relative;width:100%;aspect-ratio:1/1;background:#f7f2ec;border-radius:14px;overflow:hidden}
+.product-image{width:100%;height:100%;object-fit:cover;display:block}
+.discount-badge{position:absolute;top:8px;left:8px;background:#e8dccc;color:#5a4635;padding:4px 8px;font-size:13px;font-weight:600;border-radius:6px}
+.product-info{margin-top:12px}
+.product-name{font-size:16px;font-weight:600;color:#3d2f23}
+.rating{font-size:14px;color:#8a6f55;margin:4px 0}
+.price-row{display:flex;align-items:center;gap:8px;margin:8px 0}
+.price{font-size:17px;font-weight:700;color:#2e241b}
+.price-strike{font-size:14px;text-decoration:line-through;color:#9a8d80}
+.add-btn{width:100%;padding:10px;background:#7b5f46;color:#fff;font-weight:600;border:none;border-radius:10px;cursor:pointer;transition:background .25s ease}
+.add-btn:hover{background:#634b38;transform:translateY(-1px)}
+.add-btn:active{background:#5c4834;transform:translateY(0)}
+.qty-box {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+    background: #f4e9dd;
+    padding: 8px 14px;
+    border-radius: 10px;
+    margin-top: 10px;
+  }
+  
+  .qty-btn {
+    background: #7b5f46;
+    color: white;
+    border: none;
+    padding: 4px 10px;
+    font-size: 18px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+.qty-btn:hover {
+  background: #5c4834;
+  transform: translateY(-1px);
+}
+
+.qty-btn:active {
+  background: #4a3a2a;
+  transform: translateY(0);
+}
+  
+  .qty-value {
+    font-size: 16px;
+    font-weight: 600;
+    width: 20px;
+    text-align: center;
+  }
+  
+

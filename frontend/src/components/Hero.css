@@ -1,0 +1,7 @@
+.hero{width:100%;padding:100px 20px;text-align:center;background:linear-gradient(135deg,#e4d3c4,#c9b1a0);display:flex;justify-content:center;align-items:center}
+.hero-content{max-width:650px}
+.hero-title{font-family:'Playfair Display',serif;font-size:42px;font-weight:700;color:#3d2f23;margin-bottom:14px}
+.hero-subtitle{font-size:18px;color:#5a4635;margin-bottom:26px;line-height:1.5}
+.hero-btn{background:#7b5f46;color:#fff;padding:12px 26px;border:none;font-size:16px;border-radius:8px;cursor:pointer;font-weight:600;transition:background .25s ease}
+.hero-btn:hover{background:#634b38}
+

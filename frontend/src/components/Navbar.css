@@ -1,0 +1,8 @@
+.navbar{width:100%;padding:14px 28px;display:flex;justify-content:space-between;align-items:center;background:#f2e8dc;box-shadow:0 1px 5px rgba(0,0,0,0.08);position:sticky;top:0;z-index:50}
+.logo{font-family:'Playfair Display',serif;font-size:26px;font-weight:700;color:#4b382a;text-decoration:none}
+.nav-right{display:flex;align-items:center;gap:22px}
+.nav-link{font-size:16px;color:#5a4635;text-decoration:none;font-weight:500}
+.nav-link:hover{color:#3b2c22}
+.cart-btn{position:relative;font-size:20px;text-decoration:none;color:#4b382a}
+.cart-icon{font-size:22px}
+.cart-count{position:absolute;top:-6px;right:-10px;background:#7b5f46;color:#fff;font-size:12px;font-weight:600;padding:2px 6px;border-radius:50%}
