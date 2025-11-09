@@ -65,10 +65,10 @@ npm run dev
 Frontend runs on `http://localhost:5173`
 
 ## Screenshots
-![Home Page]<img width="1919" height="1079" alt="homepage" src="https://github.com/user-attachments/assets/ace6ac9e-0798-4798-9ced-389a45c782c5" />
-![Products]<img width="1917" height="1079" alt="products" src="https://github.com/user-attachments/assets/1e6be430-1c2f-42c5-96e0-8d59f824346e" />
-![Cart]<img width="1919" height="1079" alt="cart2" src="https://github.com/user-attachments/assets/2150d6d0-9278-4404-a4b5-07c5d70e5ca9" />
-![Checkout]<img width="1919" height="1079" alt="checkout2" src="https://github.com/user-attachments/assets/07df73fe-c9e0-4c7d-92ec-70edd5561f2a" />
+Home Page<img width="1919" height="1079" alt="homepage" src="https://github.com/user-attachments/assets/ace6ac9e-0798-4798-9ced-389a45c782c5" />
+Products<img width="1917" height="1079" alt="products" src="https://github.com/user-attachments/assets/1e6be430-1c2f-42c5-96e0-8d59f824346e" />
+Cart<img width="1919" height="1079" alt="cart2" src="https://github.com/user-attachments/assets/2150d6d0-9278-4404-a4b5-07c5d70e5ca9" />
+Checkout<img width="1919" height="1079" alt="checkout2" src="https://github.com/user-attachments/assets/07df73fe-c9e0-4c7d-92ec-70edd5561f2a" />
 
 
 
