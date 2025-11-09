@@ -71,6 +71,7 @@ Frontend runs on `http://localhost:5173`
 ![Checkout](assets/screenshots/checkout.png)
 
 
+
 ## 🔌 API Endpoints
 
 ### GET /api/products
