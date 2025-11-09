@@ -64,6 +64,13 @@ npm run dev
 
 Frontend runs on `http://localhost:5173`
 
+## Screenshots
+![Home Page](assets/screenshots/homepage.png)
+![Products](assets/screenshots/products.png)
+![Cart](assets/screenshots/cart.png)
+![Checkout](assets/screenshots/checkout.png)
+
+
 ## 🔌 API Endpoints
 
 ### GET /api/products
