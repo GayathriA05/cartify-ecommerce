@@ -67,8 +67,8 @@ Frontend runs on `http://localhost:5173`
 ## Screenshots
 ![Home Page](assets/screenshots/homepage.png)
 ![Products](assets/screenshots/products.png)
-![Cart](assets/screenshots/cart.png?v=2)
-![Checkout](assets/screenshots/checkout.png?v=2)
+![Cart](assets/screenshots/cart2.png)
+![Checkout](assets/screenshots/checkout2.png)
 
 
 
